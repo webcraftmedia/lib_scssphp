@@ -15,6 +15,7 @@ class lib_scssphp extends \LIB\lib_php{
         require_once dirname(__FILE__).'/lib/src/Formatter/Expanded.php';
         require_once dirname(__FILE__).'/lib/src/Block.php';
         require_once dirname(__FILE__).'/lib/src/Block/CallableBlock.php';
+        require_once dirname(__FILE__).'/lib/src/Block/MediaBlock.php';
         require_once dirname(__FILE__).'/lib/src/Node.php';
         require_once dirname(__FILE__).'/lib/src/Node/Number.php';
         require_once dirname(__FILE__).'/lib/src/Parser.php';
